@@ -1,0 +1,4 @@
+#javascript
+*control
+*switch
+*truthy
